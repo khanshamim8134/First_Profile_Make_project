@@ -4,10 +4,10 @@
     <head>
         <link rel="stylesheet" href="style.css">
          <title> PORTFOLIO Profile </title>
-           <h3 style="font-size: 35px;" >MD. SHAMIM HOSSAIN</h3>
+           <h3 style="font-size: 30px;" >MD. SHAMIM HOSSAIN</h3>
           <img src="SK.jpg" width="220" height="250" ">
-          <h2> <b>About me :</b></h2>
-          <pre style="font-size: 15px;">
+          <h2 style="font-size: 30px;"> <b>About me :</b> </h2>
+          <pre style="font-size: 20px;">
   <b> <a href="https://www.facebook.com/shamimkhan1981">Facebook</a> , <a href="https://github.com/khanshamim8134">github</a>, Whatsapp: 01723355140 , Mail: khanshamim8134@gmail.com</b>
  
    Hi,My name is Md. Shamim Hossain.Currently, i am studying at BSC. engineering of Information and Communication Technology 
@@ -22,7 +22,7 @@
            <p>College: Darsana Govt. College</p>
            <p>Degree: BSc. in Information and Communication Technology. </p>
            <p>University: Chandpur Science and Technoloy University.</p>
-  <pre style="font-size: 15px;">
+  <pre style="font-size: 20px;">
     <h2>Experiences: </h2>
     <strong> <u>Participated as a contestant and a Team leader</u><br> </strong>
      1. Champion in ICT-CSTU-Programming-Contest 
@@ -45,8 +45,16 @@
 
            <pre>
             <h2>Projects:</h2>
-      1. <b style="font-size: 16px;" >PIANO</b> <a href="https://github.com/khanshamim8134/PIANO">link</a>
-      
+      1. <b style="font-size: 25px;" >PIANO</b> <a href="https://github.com/khanshamim8134/PIANO">link</a>
+            <h2>Skills:</h2>
+             <pre style="font-size: 20px;">
+            1. Phython
+            2. Java
+            3. C/C++
+            4. HTML,CSS 
+            4. Algorithm 
+            5. Data structures 
+            </pre>
          </pre>
         </body>
 </html>
